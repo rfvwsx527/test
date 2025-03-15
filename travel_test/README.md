@@ -19,7 +19,7 @@
 ## 5. 展望未來：旅遊業的減碳願景與行動
 旅遊業可持續發展的未來願景
 
-預測[旅遊業碳排放](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)的減少目標
+預測[旅遊業碳排放](../)的減少目標
 
 每位旅客如何貢獻減碳，從選擇到行為的改變
 
